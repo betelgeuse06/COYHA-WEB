@@ -62,7 +62,7 @@ main root
 ## 4.스터디 진행도
 
 1. Project_001:  
-    - 주제: Global Natonal Geographic **mainPage Renewal** 글로벌 내셔널지오그래픽 메인페이지 
+    - 주제: Global Natonal Geographic **mainPage Renewal** 글로벌 내셔널지오그래픽 메인페이지 리뉴얼
     - URL: [Natonal Geographic](https://www.nationalgeographic.com/)    
     - 시작일: 2019-01-24
     - 종료일: 2019-01-31  
