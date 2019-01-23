@@ -10,9 +10,8 @@ HTML 과 CSS 더불어 javascript를 사용할 수 있으신 분들은 본인의
 * 제출기한: 1주일~3일
 5. > 부담갖지 말고 즐기면서 하면 됩니다.  
 6. **Github Organization 사용을 기본으로 하고 사용에 미숙한 분들은 리더 혹은 멤버가 '멤버'의 폴더에 파일을 업로드 해줍니다.**
-7. 1인당 1개의 branch를 갖습니다.
-8. merge는 repository의 master가 합니다.
-9. 깃헙 폴더 루트
+7. 모두가 하나의 `master-branch`를 사용하며 `commit`만 합니다. `merge`는 `repository`의 `master/origin`이 합니다.
+8. github Basic Folder Root
 Organization (COOHYA-WEB) -master/origin   
 │      
 main root      
