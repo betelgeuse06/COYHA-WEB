@@ -34,10 +34,14 @@ main root
 - 막히거나, 모르는 부분은 **충분히 검색한 후**에 다른사람의 의견을 물어봅니다.  
 
 ## 2.참고 할 만한 사이트
-[Caniuse](https://caniuse.com/) // css가 보편적으로 사용되는지 알려주는 사이트  
-[W3CShcool](https://www.w3schools.com/) // 프로그래밍 언어의 전반적인 사용법을 알려주는 사이트  
-[CSS 작성 수칙](https://nuli.navercorp.com/data/convention/NHN_Coding_Conventions_for_Markup_Languages.pdf)  // 네이버 코딩 컨벤션  
-
+[Caniuse](https://caniuse.com/) // css가 보편적으로 사용되는지 알려주는 사이트   
+[W3CShcool](https://www.w3schools.com/) // 프로그래밍 언어의 전반적인 사용법을 알려주는 사이트   
+[CSS 작성 수칙](https://nuli.navercorp.com/data/convention/NHN_Coding_Conventions_for_Markup_Languages.pdf)//네이버 코딩 컨벤션  
+[W3C웹표준 검사](https://validator.w3.org/) // 웹표준 검사  
+[W3C CSS 검사](http://jigsaw.w3.org/css-validator/)  
+[Dirty MarkUp](https://www.10bestdesign.com/dirtymarkup/) // HTML 코드를 정돈해주는 온라인 도구   
+[Reset CSS](https://meyerweb.com/eric/tools/css/reset/) // CSS작성  
+[Responsive web tester](http://troy.labs.daum.net/)   
 
 ## 3. 권장되는 CSS 작성 규칙 및 순서
 
